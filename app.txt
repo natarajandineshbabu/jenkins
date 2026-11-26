@@ -2,3 +2,4 @@ Hello Git
 Feature 1
 Feature 2
 Login Feature
+Wallet Feature
